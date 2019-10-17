@@ -1,4 +1,4 @@
-Simple graph teory.
+Simple graph teory. 
 
 Metode som som bruker DFS til å finne ut hvor mange sammenhengende komponenter en uretta graf har.
 
